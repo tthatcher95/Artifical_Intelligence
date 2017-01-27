@@ -1,0 +1,97 @@
+2x2 Output
+
+Searched total of 52 moves in 0.639
+
+2 Letter Words Found:  ['TO', 'WO', 'OW']
+3 Letter Words Found:  ['WOO', 'TWO', 'WOT', 'TOW', 'TOO', 'OOT']
+
+Found: 9 words total
+Alpha-Sorted Words: ['OOT', 'OW', 'TO', 'TOO', 'TOW', 'TWO', 'WO', 'WOO', 'WOT']
+
+3x3 Output
+
+Searched total of 331 moves in 2.031
+
+2 Letter Words Found:  ['BO', 'GO', 'RE', 'BE', 'ER', 'BY', 'BI', 'ET', 'QI', 'OR']
+3 Letter Words Found:  ['BRO', 'ORE', 'ORT', 'GOB', 'BOG', 'OBI', 'ORB', 'RET', 'GIB', 'REB', 'BIG', 'OBE', 'ERG', 'GOR', 'BET', 'ROB']
+4 Letter Words Found:  ['BORT', 'BYTE', 'BERG', 'TROG', 'GIBE', 'ORBY', 'ERGO', 'GOBY', 'GORE', 'ROBE', 'OGRE', 'BORE']
+5 Letter Words Found:  ['BORTY', 'GIBER']
+
+Found: 40 words total
+Alpha-Sorted Words: ['BE', 'BERG', 'BET', 'BI', 'BIG', 'BO', 'BOG', 'BORE', 'BORT', 'BORTY', 'BRO', 'BY', 'BYTE', 'ER', 'ERG', 'ERGO',
+                     'ET', 'GIB', 'GIBE', 'GIBER', 'GO', 'GOB', 'GOBY', 'GOR', 'GORE', 'OBE', 'OBI', 'OGRE', 'OR', 'ORB', 'ORBY', 'ORE', 'ORT', 'QI', 'RE', 'REB', 'RET', 'ROB', 'ROBE', 'TROG']
+
+4x4 Output
+
+Searched total of 1224 moves in 4.828
+
+2 Letter Words Found:  ['ER', 'NE', 'RE', 'AR', 'YE', 'EL', 'EN']
+3 Letter Words Found:  ['ARF', 'FLY', 'ARE', 'ERA', 'YEN', 'ELF', 'ZEE', 'FLU', 'FUR', 'CAR', 'NEE', 'EEL', 'LEY', 'FRY', 'LEZ', 'QUA', 'RYE', 'REE', 'LYE', 'LEE']
+4 Letter Words Found:  ['RULE', 'LUAU', 'CARL', 'EYRA', 'ARYL', 'RELY', 'YULE', 'FLEE', 'FURY', 'EELY', 'YUCA', 'LYRE', 'FREE', 'LURE', 'EYNE', 'EERY', 'FLEY', 'FURL', 'CARE', 'CAUL']
+5 Letter Words Found:  ['CARLE', 'QUARE', 'FLYER', 'ARENE', 'FURZE']
+6 Letter Words Found:  ['CAREEN', 'CARFUL']
+
+Found: 54 words total
+Alpha-Sorted Words: ['AR', 'ARE', 'ARENE', 'ARF', 'ARYL', 'CAR', 'CARE', 'CAREEN', 'CARFUL', 'CARL', 'CARLE', 'CAUL', 'EEL', 'EELY', 'EERY', 'EL', 'ELF', 'EN', 'ER', 'ERA', 'EYNE',
+                     'EYRA', 'FLEE', 'FLEY', 'FLU', 'FLY', 'FLYER', 'FREE', 'FRY', 'FUR', 'FURL', 'FURY', 'FURZE', 'LEE', 'LEY', 'LEZ', 'LUAU', 'LURE', 'LYE', 'LYRE', 'NE', 'NEE',
+                     'QUA', 'QUARE', 'RE', 'REE', 'RELY', 'RULE', 'RYE', 'YE', 'YEN', 'YUCA', 'YULE', 'ZEE']
+
+10x10 Output
+
+Searched total of 17461 moves in 48.412
+
+2 Letter Words Found:  ['AA', 'HI', 'IN', 'BO', 'MO', 'AX', 'NO', 'QI', 'SI', 'LA', 'ON', 'AM', 'ZA', 'MU', 'MI', 'AR', 'TO', 'XU', 'NU', 'OX', 'HM', 'AN', 'SH', 'OM', 'US', 'AS', 'AL', 'HO', 'OH', 'IT', 'TI', 'AH', 'KA', 'IS',
+                        'UN', 'AD', 'MA', 'HA', 'BY', 'KI', 'NA', 'AW', 'OS', 'UM', 'SO']
+3 Letter Words Found:  ['AAS', 'FUB', 'KOB', 'JUN', 'ICH', 'RAD', 'JAM', 'LAR', 'TSK', 'NOM', 'LAD', 'TIT', 'SUK', 'HOB', 'KIR', 'SHY', 'WAN', 'BYS', 'UNS', 'MON', 'GUM', 'TIC', 'LUG', 'MUG', 'CAM', 'LUM', 'SIC', 'OMS', 'SUM',
+                        'ARC', 'NAM', 'SIT', 'NIT', 'BOX', 'BUS', 'KHI', 'SUN', 'NUB', 'RIN', 'RUM', 'MAN', 'WHA', 'GUN', 'LAM', 'ADZ', 'ARS', 'NAH', 'ZUZ', 'MIS', 'ICK', 'MAX', 'ARM', 'INK', 'MOA', 'ISM', 'BUG', 'NTH', 'JUG',
+                        'INS', 'CAD', 'CHI', 'MAS', 'SON', 'CUM', 'AWA', 'DAL', 'SOT', 'WIZ', 'HIT', 'RUB', 'HIC', 'HAH', 'AWN', 'MAD', 'ANA', 'NUS', 'OKA', 'RUG', 'MUS', 'RHO', 'NOS', 'CIS', 'HIS', 'OHS', 'SHH', 'OAK', 'SUB',
+                        'YUM', 'LAC', 'HOS', 'CRU', 'RIM', 'SIM', 'MOT', 'BUR', 'LUX', 'HAJ', 'MIC', 'SIN', 'RAM', 'COS', 'COB', 'SOM', 'WAW', 'SUQ', 'BOS', 'ADS', 'TON', 'BUM', 'FUN', 'JAW', 'SHA', 'AHS', 'LAX', 'AMU', 'SOB',
+                        'GUL', 'NOT', 'CRY', 'FUG', 'SOX', 'KOS', 'TIS', 'WHY', 'UGH', 'AMI', 'CUR', 'TIN', 'DAM', 'HAM', 'RAX', 'MAW', 'FUR', 'NUN', 'GNU', 'HIN', 'WAX', 'MAR', 'MIR', 'BUN', 'BUY', 'QIS', 'SIR', 'NAW', 'COX',
+                        'HAW', 'MAC', 'IRK', 'YUK', 'CAR', 'MOS', 'OXO', 'TOM', 'SKA', 'URP', 'ITS']
+
+4 Letter Words Found:  ['SITS', 'SUNG', 'CULM', 'ARCO', 'KAAS', 'BRIM', 'SHIT', 'STIR', 'HWAN', 'THIR', 'RUBY', 'MOTH', 'WHAM', 'ARCS', 'CHIN', 'HAHS', 'WANS', 'OMIT', 'RUBS', 'MARC', 'GUNS', 'SURA', 'UGHS', 'SOAK', 'WHYS',
+                        'TSKS', 'CULT', 'AMIR', 'RICH', 'OTIC', 'CRUS', 'KANA', 'BRIS', 'WHIR', 'SOTH', 'KOBS', 'CARS', 'TRUG', 'MANO', 'BRIT', 'TINS', 'WHIZ', 'HAWK', 'KOSS', 'MOST', 'MUSH', 'WANK', 'RICK', 'NOMA', 'GULP',
+                        'RUSH', 'SCAD', 'SUNS', 'SOTS', 'TOMS', 'CRIT', 'BOSK', 'HAKU', 'KHAN', 'BUSH', 'CURT', 'GNUS', 'CIST', 'MISO', 'PLUM', 'RIMS', 'MIRI', 'NOMS', 'FUBS', 'HICK', 'HANG', 'CHIT', 'ARCH', 'NISI', 'MANA',
+                        'NUNS', 'SHAM', 'HIST', 'MOAS', 'BUSK', 'TIRL', 'SUGH', 'CAUL', 'INTI', 'SINS', 'KICK', 'KIRK', 'OAST', 'SINH', 'MOAN', 'AXON', 'RUSK', 'MURR', 'MOTS', 'GUNK', 'COBS', 'CHIS', 'SHIN', 'SNIT', 'GLUM',
+                        'ANUS', 'CAMS', 'HANK', 'SMIT', 'SCAR', 'CARR', 'MIST', 'ANOA', 'CLAM', 'ALUM', 'TITS', 'COXA', 'RINK', 'TRIM', 'KUNA', 'HOBS', 'ANAS', 'GUSH', 'CURL', 'SHAW', 'MADS', 'LACS', 'MARS', 'SOBS', 'MURA',
+                        'BUSY', 'SHWA', 'ICHS', 'KAON', 'HOST', 'SINK', 'HINT', 'TITI', 'WICK', 'COSS', 'CADS', 'CLAD', 'AMIS', 'CALM', 'SHAH', 'BUYS', 'ARMS', 'INTO', 'BRIN', 'NAOS', 'RHOS', 'AULD', 'MAWN', 'OAKS', 'COSH',
+                        'COST', 'BOSS', 'MANS', 'RADS', 'SOMA', 'SNAW', 'BOSH', 'MUSK', 'INKS', 'GNAW', 'SUNK', 'IRIS', 'NAZI', 'HITS', 'THIN', 'SCAM', 'RUMS', 'KNIT', 'LARS', 'MAST', 'BUMS', 'UMBO', 'LADS', 'NITS', 'HINS',
+                        'PLUG', 'CALX', 'THIS', 'ANKH', 'CRUX', 'MOXA', 'MACS', 'SITH', 'SNUG', 'CRIS', 'STOA', 'MAUL', 'BURA', 'WIRY', 'BUNG', 'RINS', 'LUMA', 'ARUM',
+                        'BURR', 'SIMA', 'CRAM']
+
+5 Letter Words Found:  ['NITON', 'GULAR', 'BRITH', 'SHAWN', 'TITIS', 'SCRAM', 'SUGHS', 'BUSHY', 'LARUM', 'SNUGS', 'RICIN', 'BURQA', 'SOMAN', 'SHANK', 'HANKS', 'HOSTS', 'BRINK', 'MUSHY', 'ANOAS', 'MASON', 'KANAS', 'TOMAN',
+'MARCH', 'CRUSH', 'UMBOS', 'WHANG', 'RINKS', 'MOTHS', 'MANUS', 'HAKUS', 'KHANS', 'THINS', 'NOMAS', 'STICH', 'MITIS', 'RUSHY', 'HINTS', 'FUBSY', 'GNAWN', 'SCALD', 'ANKUS', 'SHIST', 'MASTS', 'BRIMS', 'MARSH', 'GUNKS', 'SURAL',
+'SNITS', 'SCADS', 'MISTS', 'ARUMS', 'LARCH', 'CAULD', 'SKOSH', 'THIRL', 'ANKHS', 'MONAS', 'CHINK', 'HISTS', 'SHIRK', 'STOMA', 'BOSKS', 'STINK', 'STOAS', 'SMITH', 'SCRUM', 'OSMIC', 'SCAMS', 'BRITS', 'BRINS', 'SINHS', 'SCAUR',
+'KNITS', 'AMICI', 'CHINS', 'SINKS', 'SURRA', 'CHITS', 'INTIS', 'ASTIR', 'CRITS', 'MURAL', 'SCRUB', 'OASTS', 'GHOST', 'MURRA', 'MIRIN', 'TRIMS', 'SHINS', 'CARRS', 'SOAKS', 'OMITS', 'SHIRT', 'SOTHS', 'MARCS', 'CLADS', 'SHITS',
+'COSTS', 'CISTS', 'BURRS', 'HANGS', 'MANOS', 'MURRS', 'ALMUG', 'WANKS', 'MOSTS', 'CRUMB', 'THINK']
+
+6 Letter Words Found:  ['MUSKOX', 'RICINS', 'INTIMA', 'GHOSTS', 'BRITHS', 'CHINTS', 'BUSHWA', 'CAULDS', 'TRITON', 'WHANGS', 'SMIRCH', 'LARUMS', 'SHISTS', 'ANKUSH', 'STOMAS', 'CHITON', 'SCALDS', 'SMITHS', 'SCRUMS', 'BRINKS',
+                        'SCRUBS', 'CRUMBS', 'MIRINS', 'CRUMBY', 'MACULA', 'UNPLUG', 'UNGULA', 'STICHS', 'NASTIC', 'BOSTON', 'ANOMIC', 'WANGUN', 'STINKS', 'UNKNIT', 'CHINKS', 'CITRIN', 'STINKO', 'SHANKS', 'THINKS', 'MASTIC']
+7 Letter Words Found:  ['CRIMSON', 'UNGULAR', 'INTIMAS', 'TRITOMA', 'ANOSMIC', 'UNKNITS', 'SOMITIC', 'CITRINS', 'MACULAR', 'TRISMIC']
+8 Letter Words Found:  ['TRISOMIC', 'TRISTICH', 'MISTHINK', 'CHITOSAN', 'MONASTIC', 'NOMISTIC', 'TRITOMAS']
+9 Letter Words Found:  ['MISTHINKS', 'TRISTICHS']
+
+Found: 564 words total
+Alpha-Sorted Words: ['AA', 'AAS', 'AD', 'ADS', 'ADZ', 'AH', 'AHS', 'AL', 'ALMUG', 'ALUM', 'AM', 'AMI', 'AMICI', 'AMIR', 'AMIS', 'AMU', 'AN', 'ANA', 'ANAS', 'ANKH', 'ANKHS', 'ANKUS',
+                     'ANKUSH', 'ANOA', 'ANOAS', 'ANOMIC', 'ANOSMIC', 'ANUS', 'AR', 'ARC', 'ARCH', 'ARCO', 'ARCS', 'ARM', 'ARMS', 'ARS', 'ARUM', 'ARUMS', 'AS', 'ASTIR', 'AULD', 'AW', 'AWA', 'AWN', 'AX', 'AXON',
+                     'BO', 'BOS', 'BOSH', 'BOSK', 'BOSKS', 'BOSS', 'BOSTON', 'BOX', 'BRIM', 'BRIMS', 'BRIN', 'BRINK', 'BRINKS', 'BRINS', 'BRIS', 'BRIT', 'BRITH', 'BRITHS', 'BRITS', 'BUG', 'BUM', 'BUMS', 'BUN',
+                     'BUNG', 'BUR', 'BURA', 'BURQA', 'BURR', 'BURRS', 'BUS', 'BUSH', 'BUSHWA', 'BUSHY', 'BUSK', 'BUSY', 'BUY', 'BUYS', 'BY', 'BYS', 'CAD', 'CADS', 'CALM', 'CALX', 'CAM', 'CAMS', 'CAR', 'CARR', 'CARRS',
+                     'CARS', 'CAUL', 'CAULD', 'CAULDS', 'CHI', 'CHIN', 'CHINK', 'CHINKS', 'CHINS', 'CHINTS', 'CHIS', 'CHIT', 'CHITON', 'CHITOSAN', 'CHITS', 'CIS', 'CIST', 'CISTS', 'CITRIN', 'CITRINS', 'CLAD', 'CLADS',
+                     'CLAM', 'COB', 'COBS', 'COS', 'COSH', 'COSS', 'COST', 'COSTS', 'COX', 'COXA', 'CRAM', 'CRIMSON', 'CRIS', 'CRIT', 'CRITS', 'CRU', 'CRUMB', 'CRUMBS', 'CRUMBY', 'CRUS', 'CRUSH', 'CRUX', 'CRY', 'CULM',
+                     'CULT', 'CUM', 'CUR', 'CURL', 'CURT', 'DAL', 'DAM', 'FUB', 'FUBS', 'FUBSY', 'FUG', 'FUN', 'FUR', 'GHOST', 'GHOSTS', 'GLUM', 'GNAW', 'GNAWN', 'GNU', 'GNUS', 'GUL', 'GULAR', 'GULP', 'GUM', 'GUN', 'GUNK',
+                     'GUNKS', 'GUNS', 'GUSH', 'HA', 'HAH', 'HAHS', 'HAJ', 'HAKU', 'HAKUS', 'HAM', 'HANG', 'HANGS', 'HANK', 'HANKS', 'HAW', 'HAWK', 'HI', 'HIC', 'HICK', 'HIN', 'HINS', 'HINT', 'HINTS', 'HIS', 'HIST', 'HISTS',
+                     'HIT', 'HITS', 'HM', 'HO', 'HOB', 'HOBS', 'HOS', 'HOST', 'HOSTS', 'HWAN', 'ICH', 'ICHS', 'ICK', 'IN', 'INK', 'INKS', 'INS', 'INTI', 'INTIMA', 'INTIMAS', 'INTIS', 'INTO', 'IRIS', 'IRK', 'IS', 'ISM', 'IT',
+                     'ITS', 'JAM', 'JAW', 'JUG', 'JUN', 'KA', 'KAAS', 'KANA', 'KANAS', 'KAON', 'KHAN', 'KHANS', 'KHI', 'KI', 'KICK', 'KIR', 'KIRK', 'KNIT', 'KNITS', 'KOB', 'KOBS', 'KOS', 'KOSS', 'KUNA', 'LA', 'LAC', 'LACS',
+                     'LAD', 'LADS', 'LAM', 'LAR', 'LARCH', 'LARS', 'LARUM', 'LARUMS', 'LAX', 'LUG', 'LUM', 'LUMA', 'LUX', 'MA', 'MAC', 'MACS', 'MACULA', 'MACULAR', 'MAD', 'MADS', 'MAN', 'MANA', 'MANO', 'MANOS', 'MANS',
+                     'MANUS', 'MAR', 'MARC', 'MARCH', 'MARCS', 'MARS', 'MARSH', 'MAS', 'MASON', 'MAST', 'MASTIC', 'MASTS', 'MAUL', 'MAW', 'MAWN', 'MAX', 'MI', 'MIC', 'MIR', 'MIRI', 'MIRIN', 'MIRINS', 'MIS', 'MISO', 'MIST',
+                     'MISTHINK', 'MISTHINKS', 'MISTS', 'MITIS', 'MO', 'MOA', 'MOAN', 'MOAS', 'MON', 'MONAS', 'MONASTIC', 'MOS', 'MOST', 'MOSTS', 'MOT', 'MOTH', 'MOTHS', 'MOTS', 'MOXA', 'MU', 'MUG', 'MURA', 'MURAL', 'MURR',
+                     'MURRA', 'MURRS', 'MUS', 'MUSH', 'MUSHY', 'MUSK', 'MUSKOX', 'NA', 'NAH', 'NAM', 'NAOS', 'NASTIC', 'NAW', 'NAZI', 'NISI', 'NIT', 'NITON', 'NITS', 'NO', 'NOM', 'NOMA', 'NOMAS', 'NOMISTIC', 'NOMS', 'NOS',
+                     'NOT', 'NTH', 'NU', 'NUB', 'NUN', 'NUNS', 'NUS', 'OAK', 'OAKS', 'OAST', 'OASTS', 'OH', 'OHS', 'OKA', 'OM', 'OMIT', 'OMITS', 'OMS', 'ON', 'OS', 'OSMIC', 'OTIC', 'OX', 'OXO', 'PLUG', 'PLUM', 'QI', 'QIS',
+                     'RAD', 'RADS', 'RAM', 'RAX', 'RHO', 'RHOS', 'RICH', 'RICIN', 'RICINS', 'RICK', 'RIM', 'RIMS', 'RIN', 'RINK', 'RINKS', 'RINS', 'RUB', 'RUBS', 'RUBY', 'RUG', 'RUM', 'RUMS', 'RUSH', 'RUSHY', 'RUSK', 'SCAD',
+                     'SCADS', 'SCALD', 'SCALDS', 'SCAM', 'SCAMS', 'SCAR', 'SCAUR', 'SCRAM', 'SCRUB', 'SCRUBS', 'SCRUM', 'SCRUMS', 'SH', 'SHA', 'SHAH', 'SHAM', 'SHANK', 'SHANKS', 'SHAW', 'SHAWN', 'SHH', 'SHIN', 'SHINS',
+                     'SHIRK', 'SHIRT', 'SHIST', 'SHISTS', 'SHIT', 'SHITS', 'SHWA', 'SHY', 'SI', 'SIC', 'SIM', 'SIMA', 'SIN', 'SINH', 'SINHS', 'SINK', 'SINKS', 'SINS', 'SIR', 'SIT', 'SITH', 'SITS', 'SKA', 'SKOSH', 'SMIRCH',
+                     'SMIT', 'SMITH', 'SMITHS', 'SNAW', 'SNIT', 'SNITS', 'SNUG', 'SNUGS', 'SO', 'SOAK', 'SOAKS', 'SOB', 'SOBS', 'SOM', 'SOMA', 'SOMAN', 'SOMITIC', 'SON', 'SOT', 'SOTH', 'SOTHS', 'SOTS', 'SOX', 'STICH',
+                     'STICHS', 'STINK', 'STINKO', 'STINKS', 'STIR', 'STOA', 'STOAS', 'STOMA', 'STOMAS', 'SUB', 'SUGH', 'SUGHS', 'SUK', 'SUM', 'SUN', 'SUNG', 'SUNK', 'SUNS', 'SUQ', 'SURA', 'SURAL', 'SURRA', 'THIN', 'THINK',
+                     'THINKS', 'THINS', 'THIR', 'THIRL', 'THIS', 'TI', 'TIC', 'TIN', 'TINS', 'TIRL', 'TIS', 'TIT', 'TITI', 'TITIS', 'TITS', 'TO', 'TOM', 'TOMAN', 'TOMS', 'TON', 'TRIM', 'TRIMS', 'TRISMIC', 'TRISOMIC', 'TRISTICH',
+                     'TRISTICHS', 'TRITOMA', 'TRITOMAS', 'TRITON', 'TRUG', 'TSK', 'TSKS', 'UGH', 'UGHS', 'UM', 'UMBO', 'UMBOS', 'UN', 'UNGULA', 'UNGULAR', 'UNKNIT', 'UNKNITS', 'UNPLUG', 'UNS', 'URP', 'US', 'WAN', 'WANGUN', 'WANK',
+                     'WANKS', 'WANS', 'WAW', 'WAX', 'WHA', 'WHAM', 'WHANG', 'WHANGS', 'WHIR', 'WHIZ', 'WHY', 'WHYS', 'WICK', 'WIRY', 'WIZ', 'XU', 'YUK', 'YUM', 'ZA', 'ZUZ']
