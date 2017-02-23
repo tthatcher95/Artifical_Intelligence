@@ -65,6 +65,7 @@ if __name__ == '__main__':
 
     moves = 0
     recursion = 0
+    branching = 0
     word = []
     height = len(board)
     width = len(board[0])
@@ -87,6 +88,7 @@ if __name__ == '__main__':
             return words_found
 
         moves += 1
+        recursion += 1
 
         # Creates a copy of path every time get_words() is called
         # This serves so we do not modify the same path with each iteration
@@ -103,25 +105,11 @@ if __name__ == '__main__':
         # Takes in the board and loops through each valid move that can be executed
         current_coordinates = get_coordinates(board, col, row)
         current_coordinates = [coord for coord in current_coordinates if coord not in path]
-
-        # Numpy function which takes all of the words that start with the string 'word'
-        # And masks it to only reflect the words that start with my string 'word'
-        prefix_mask = np.char.startswith(word_list, word.lower())
-
-        # Generated the new sublist of words that contain the string 'word'
-        word_list = word_list[prefix_mask]
-
-        # If the string 'word' is not contained in the prefixes of any word in the
-        # Text file it skips over it and moves on to next iteration
-        if not np.any(prefix_mask):
-            return
-
         for coord in current_coordinates:
 
             # Recursive call which passes the new_list to search through
-            recursion += 1
-
-            DeepFirstSearch(word, coord[1], coord[0], path, word_list, 100, False)
+            print(word)
+            DeepFirstSearch(word, coord[0], coord[1], path, word_list, 100, False)
 
     nodes = []
 
@@ -135,7 +123,7 @@ if __name__ == '__main__':
     # Iterates through each starting point on the board
     for node in nodes:
 
-        DeepFirstSearch('', node[0], node[1], path, txt_file, 100, False)
+        DeepFirstSearch('', node[0], node[1], path, txt_file, 200, False)
 
     # End the timer and calculates the total time elapsed
     time_1 = time.time()
